@@ -1,6 +1,6 @@
-## 作业一，topology实现：StormCluster
-## 作业二，storm可靠性：StormRedis
-## 一、Storm 集群搭建与Topology可视化图 （StormCluster）
+### 作业一，topology实现：StormCluster
+### 作业二，storm可靠性：StormRedis
+### 一、Storm 集群搭建与Topology可视化图 （StormCluster）
 
 ![1559487642337](https://github.com/sundial-dreams/storm-task/blob/master/src/main/java/storm/1559487642337.png?raw=true)
 
@@ -83,7 +83,7 @@
 
 7. 在浏览器打开localhost:8080即可查看提交的topology
 
-## 二、Storm可靠性（StormRedis）
+### 二、Storm可靠性（StormRedis）
 
 ![1559648531018](https://github.com/sundial-dreams/storm-task/blob/master/src/main/java/storm/1559648531018.png?raw=true)
 
