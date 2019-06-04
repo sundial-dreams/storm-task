@@ -1,4 +1,5 @@
-## 一、Storm 集群搭建与可视化图
+# 作业：StormCluster 和 StormRedis 文件夹
+## 一、Storm 集群搭建与可视化图 （StormCluster文件夹）
 
 ![1559487642337](https://github.com/sundial-dreams/storm-task/blob/master/src/main/java/storm/1559487642337.png?raw=true)
 
@@ -81,7 +82,7 @@
 
 7. 在浏览器打开localhost:8080即可查看提交的topology
 
-### 二、Storm可靠性
+## 二、Storm可靠性（StormRedis文件夹）
 
 ![1559648531018](https://github.com/sundial-dreams/storm-task/blob/master/src/main/java/storm/1559648531018.png?raw=true)
 
