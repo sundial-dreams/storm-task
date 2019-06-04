@@ -83,7 +83,7 @@
 
 ### 二、Storm可靠性
 
-![1559648531018](C:\Users\20311\AppData\Roaming\Typora\typora-user-images\1559648531018.png)
+![1559648531018](https://github.com/sundial-dreams/storm-task/blob/master/src/main/java/storm/1559648531018.png?raw=true)
 
 基本步骤，提交topology
 
