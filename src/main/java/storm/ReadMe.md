@@ -1,6 +1,6 @@
 ## 一、Storm 集群搭建与可视化图
 
-![1559487642337](C:\Users\20311\AppData\Roaming\Typora\typora-user-images\1559487642337.png)
+![1559487642337](https://github.com/sundial-dreams/storm-task/blob/master/src/main/java/storm/1559487642337.png?raw=true)
 
 #### 操作步骤
 
